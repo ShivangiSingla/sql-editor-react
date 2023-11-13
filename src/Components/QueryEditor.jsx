@@ -22,7 +22,7 @@ const QueryEditor = (props) => {
   }, [selectedQuery]);
 
   const getSelectedQuery = () => {
-    const query =  queryOptions.find((ele) => ele.value == selectedQuery);
+    const query =  queryOptions.find((ele) => ele.value?.toString() === selectedQuery?.toString());
     return query?.name;
   }
 
