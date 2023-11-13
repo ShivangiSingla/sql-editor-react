@@ -17,8 +17,8 @@ Check out the App [here](https://main--guileless-froyo-5c66f3.netlify.app/)
 - Flexibility to view raw data or download a CSV file
 - Visibility of the query execution time and an option to Cancel/Terminate the query if needed
 
-### Page load time
-Page load time is 1s as calculated with Lighthouse. Largest Contentful Paint time is 2.5s.
+### Performance Related Insights:
+Based on the Lighthouse calculations, Page Load Time is 1s and Largest Contentful Paint Time is 2.5s.
 
 ### `npm start`
 
