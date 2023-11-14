@@ -8,7 +8,6 @@ Check out the App [here](https://main--guileless-froyo-5c66f3.netlify.app/)
 
 ### Libraries Used:
 - React-Ace
-- Papaparse
 
 ### Overview:
 - SQL Editor to fetch data from a predefined set of queries
